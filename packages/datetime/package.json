@@ -1,5 +1,5 @@
 {
-  "name": "@blueprintjs/datetime",
+  "name": "archsaber-datetime",
   "version": "3.5.0",
   "description": "Components for interacting with dates and times",
   "main": "lib/cjs/index.js",
